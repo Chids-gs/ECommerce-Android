@@ -4,7 +4,7 @@ buildscript {
         mavenLocal()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:1.0.0-rc1'
+        classpath 'com.android.tools.build:gradle:2.3.0'
         classpath 'com.appdynamics:appdynamics-gradle-plugin:2.0'
     }
 }
