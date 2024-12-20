@@ -46,5 +46,5 @@ dependencies {
 }
 
 dependencies {
-    compile 'com.appdynamics:appdynamics-runtime:1.0'
+    compile 'com.appdynamics:appdynamics-runtime:24.12.0'
 }
